@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HadafWeb", "HadafWeb\HadafWeb.csproj", "{234B1F0D-1A65-46DB-A6D1-FF18EFF50E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234B1F0D-1A65-46DB-A6D1-FF18EFF50E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B1F0D-1A65-46DB-A6D1-FF18EFF50E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B1F0D-1A65-46DB-A6D1-FF18EFF50E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B1F0D-1A65-46DB-A6D1-FF18EFF50E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5007E31-0162-4998-A9BF-B799443C1BFB}
+	EndGlobalSection
+EndGlobal
